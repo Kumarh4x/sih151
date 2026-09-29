@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/Sidebar";
 import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "NTRO Intel-Flow | Dark Web Threat Actor De-Anonymization Dashboard",
+  title: "ONION EYE | Dark Web Threat Actor De-Anonymization Dashboard",
   description: "Autonomous threat actor de-anonymization and cross-marketplace persona correlation engine for NTRO SIH 2026.",
 };
 
