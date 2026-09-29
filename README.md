@@ -1,4 +1,4 @@
-# NTRO Intel-Flow: Dark Web Threat Actor De-Anonymization Platform
+# ONION EYE: Dark Web Threat Actor De-Anonymization Platform
 ### Smart India Hackathon 2026 — Problem Statement ID: SIH26151
 
 An enterprise cyber intelligence and forensic de-anonymization prototype designed for the **National Technical Research Organisation (NTRO)**. The portal demonstrates multi-marketplace persona correlation, on-chain cryptocurrency wallet clustering, PGP subkey web-of-trust verification, multilingual (Hindi/Hinglish/English) stylometric analysis, and court-admissible forensic evidence management.

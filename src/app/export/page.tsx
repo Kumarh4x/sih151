@@ -134,7 +134,7 @@ function ExportContent() {
         doc.setTextColor(180, 0, 0);
         doc.text(classification, 14, y);
         doc.setTextColor(100, 100, 100);
-        doc.text("SIH26151 • NTRO INTEL-FLOW", 140, y);
+        doc.text("SIH26151 • ONION EYE", 140, y);
         y += 8;
 
         doc.setFontSize(16);

@@ -1,4 +1,4 @@
-// types.ts — shared data contract for NTRO Intel-Flow (SIH26151)
+// types.ts — shared data contract for ONION EYE (SIH26151)
 
 export type ConfidenceLevel = "high" | "medium" | "low";
 

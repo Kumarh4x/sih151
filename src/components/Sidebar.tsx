@@ -109,7 +109,7 @@ export function Sidebar() {
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="text-xs font-bold tracking-tight text-slate-900">
-                  NTRO INTEL-FLOW
+                  ONION EYE
                 </span>
                 <span className="text-[10px] font-semibold px-1 py-0.2 rounded bg-blue-50 text-blue-700 border border-blue-200">
                   SIH26151
